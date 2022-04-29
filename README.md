@@ -3,7 +3,7 @@
 # I'm Víctor García or @vicogarcia16
 
 ## About me
-I'm a mexican Software Developer and Master ICT :mortar_board:🚀. My main developments are in Python with Flask and FastAPI 🐍, but also in VB .Net, Javascript, and some Frontend Technologies :computer:.
+I'm a mexican Software Developer and Master ICT :mortar_board:🚀. My main developments are in Python with Flask and FastAPI 🐍, but also in VB .Net, Javascript, and some Frontend Technologies. :computer:
 
 * ♥️ Python, Flask, Django and FastAPI.
 * ✨ APIs creator.
