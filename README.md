@@ -9,7 +9,7 @@ I'm a mexican Software Developer and Master ICT :mortar_board:🚀. My main deve
 * ✨ APIs creator.
 * :sunglasses: I am interested in data science and machine learning
 * :musical_keyboard: :pencil: Musician and poet writer
-* :video_game: video game lover
+* :video_game: Video game lover
 * :clapper: I like suspense movies
 * ⭐ Solver.
 * 🧠 Learning NodeJS, Frameworks with ExpressJS, ReactJS and Angular.
