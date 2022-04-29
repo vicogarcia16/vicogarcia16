@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**vicogarcia16/vicogarcia16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Víctor García or @vicogarcia16
 
-Here are some ideas to get you started:
+## About me
+I'm a mexican Software Developer and Master ICT :mortar_board:🚀. My main developments are in Python with Flask and FastAPI 🐍, but also in VB .Net, Javascript, and some Frontend Technologies :computer:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ♥️ Python, Flask, Django and FastAPI.
+* ✨ APIs creator.
+* :sunglasses: I am interested in data science and machine learning
+* :musical_keyboard: :pencil: Musician and poet writer
+* :video_game: video game lover
+* :clapper: I like suspense movies
+* ⭐ Solver.
+* 🧠 Learning NodeJS, Frameworks with ExpressJS, ReactJS and Angular.
+
+
+## My personal blog
+
+*  :smiley_cat: [Suspiros y Tormentos](http://www.vicogarcia.com)
+
+## My profiles
+
+* ✔️ [LinkedIn](https://www.linkedin.com/in/vicogarcia/)
+*  :pager: [My professional portfolio](http://www.vicogarcia.com/cv)
+*  :flags: [HackerRank](https://www.hackerrank.com/vicogarcia16)
+
+
+## Follow me
+
+* 🔗 [Instagram](https://www.instagram.com/vicogarcia16/)
+* 🔗 [Facebook](https://www.facebook.com/VNoJo)
