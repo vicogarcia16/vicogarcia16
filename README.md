@@ -1,3 +1,7 @@
+
+<img src='https://github.com/vicogarcia16/vicogarcia16/blob/main/My%20project.png' alt='banner' height = '450'>
+
+
 ### Hi there 👋
 
 # I'm Víctor García or @vicogarcia16 :computer:
