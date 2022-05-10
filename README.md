@@ -65,12 +65,14 @@ Click on the icon! ⤵️
 
 ## Profiles
 Click on the icons! ⤵️
-|[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'>](https://www.linkedin.com/in/vicogarcia/)|[<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' alt='Portfolio'>](http://www.vicogarcia.com/cv)|[<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' alt='HackerRank'>](https://www.hackerrank.com/vicogarcia16)|
-|-------------------|-------------|-------------|  
+|[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'>](https://www.linkedin.com/in/vicogarcia/)|
+|-------------------|
+|[<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' alt='Portfolio'>](http://www.vicogarcia.com/cv)|
+|[<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' alt='HackerRank'>](https://www.hackerrank.com/vicogarcia16)|
 
 
 ## Follow me
 Click on the icons! ⤵️
-|[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='Facebook'>](https://www.facebook.com/VNoJo)|[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram'>](https://www.instagram.com/vicogarcia16/)|
-|-------------------|-------------|  
-
+|[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='Facebook'>](https://www.facebook.com/VNoJo)|
+|-------------------|
+|[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram'>](https://www.instagram.com/vicogarcia16/)|
