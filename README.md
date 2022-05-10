@@ -57,22 +57,19 @@ I'm a mexican 🇲🇽 Software Developer and Master ICT :mortar_board:🚀. Cur
 
 
 ## Blog
-
-|![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)|
-|-------------------| 
-|[Suspiros y Tormentos](http://www.vicogarcia.com)|
+Click on the icon! ⤵️
+|[<img src='https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white' alt='Wordpress'>](http://www.vicogarcia.com)|
+|-------------------|
 
 
 ## Profiles
-
-|![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)|![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)|
+Click on the icons! ⤵️
+|[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'>](https://www.linkedin.com/in/vicogarcia/)|[<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' alt='Portfolio'>](http://www.vicogarcia.com/cv)|[<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' alt='HackerRank'>](https://www.hackerrank.com/vicogarcia16)|
 |-------------------|-------------|-------------|  
-| [LinkedIn](https://www.linkedin.com/in/vicogarcia/) | [My professional portfolio](http://www.vicogarcia.com/cv) | [HackerRank](https://www.hackerrank.com/vicogarcia16)|
 
 
 ## Follow me
-
-|![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)|![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)|
+Click on the icons! ⤵️
+|[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='Facebook'>](https://www.facebook.com/VNoJo)|[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram'>](https://www.instagram.com/vicogarcia16/)|
 |-------------------|-------------|  
-|[Facebook](https://www.facebook.com/VNoJo)|[Instagram](https://www.instagram.com/vicogarcia16/)|
 
