@@ -1,7 +1,7 @@
 
 
 <center>
-<img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/My%20project.png" alt="Banner" width="87%" height="auto">
+<img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/My%20project.png" alt="Banner" width="100%" height="auto">
 </center>
 
 
