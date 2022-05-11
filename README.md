@@ -1,11 +1,8 @@
 
 
 <center>
-<img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/saludo1.gif" alt="Banner" width="50%" height="auto">
+<img align= "center" src="https://github.com/vicogarcia16/vicogarcia16/blob/main/saludo1.gif" alt="Banner" width="50%" height="auto">
  
-</center>
-<center>
-
 </center>
 
 
@@ -85,3 +82,8 @@ Click on the icons! ⤵️
 |[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='Facebook'>](https://www.facebook.com/VNoJo)|
 |-------------------|
 |[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram'>](https://www.instagram.com/vicogarcia16/)|
+
+## Github Statistics
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicogarcia16&layout=compact&theme=github_dark)](https://github.com/vicogarcia16/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicogarcia16&layout=compact&theme=github_dark)](https://github.com/vicogarcia16/github-readme-stats)|
+|-------------------|-------------------|
+
