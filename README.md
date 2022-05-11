@@ -1,10 +1,11 @@
 
 
+<center>
+<img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/My%20project.png" alt="Banner" width="87%" height="auto">
+</center>
 
 
-### Hi there 👋
-
-# I'm Víctor García or @vicogarcia16 :computer:
+# 👋 I'm Víctor García or @vicogarcia16 :computer:
 
 ## About me
 I'm a mexican 🇲🇽 Software Developer and Master ICT :mortar_board:🚀. Currently developing in Python🐍 as a Semi Senior Developer 🧑‍💼
