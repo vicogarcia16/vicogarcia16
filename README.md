@@ -1,14 +1,18 @@
 
 
 <center>
-<img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/My%20project.png" alt="Banner" width="88%" height="auto">
+<img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/saludo.gif" alt="Banner" width="50%" height="auto">
+ 
+</center>
+<center>
+
 </center>
 
 
-# 👋 I'm Víctor García or @vicogarcia16 :computer:
+# 👋 I'm Víctor García or @vicogarcia16  <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" alt="Banner" width="7%" height="auto">
 
 ## About me
-I'm a mexican 🇲🇽 Software Developer and Master ICT :mortar_board:🚀. Currently developing in Python🐍 as a Semi Senior Developer 🧑‍💼
+I'm a mexican 🇲🇽 Software Developer and Master ICT :mortar_board::computer:. Currently developing in Python🐍 as a Semi Senior Developer 🧑‍💼
 
 ### *Managed operating systems*  
 
