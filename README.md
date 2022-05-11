@@ -1,7 +1,7 @@
 
 
 <center>
-<img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/saludo.gif" alt="Banner" width="50%" height="auto">
+<img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/saludo1.gif" alt="Banner" width="50%" height="auto">
  
 </center>
 <center>
