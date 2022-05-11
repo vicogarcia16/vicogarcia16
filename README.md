@@ -1,5 +1,5 @@
 
-<img src='https://github.com/vicogarcia16/vicogarcia16/blob/main/My%20project.png' alt='banner' height = '450'>
+
 
 
 ### Hi there 👋
