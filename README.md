@@ -79,8 +79,6 @@ Click on the icons! ⤵️
 
 ## Follow me
 Click on the icons! ⤵️
-|[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='Facebook'>](https://www.facebook.com/VNoJo)|
-|-------------------|
 |[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram'>](https://www.instagram.com/vicogarcia16/)|
 
 ## Github Stats
