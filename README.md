@@ -93,8 +93,10 @@ Click on the icon! ⤵️
 ---
 
 ## Github Stats
-| ![vicogarcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicogarcia16&layout=compact&theme=highcontrast) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicogarcia16&layout=compact&theme=highcontrast) |
+| ![vicogarcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicogarcia16&show_icons=true&layout=compact&theme=highcontrast) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicogarcia16&layout=compact&theme=highcontrast) |
 | --- | --- |
+
+## Contributions Streak
 
 | [![GitHub Streak](https://github-readme-streak-stats-lac-six-17.vercel.app?user=vicogarcia16&theme=python-dark)](https://git.io/streak-stats) |
 | --- |
