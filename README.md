@@ -1,103 +1,209 @@
+<div align="center">
+  <img src="https://github.com/vicogarcia16/vicogarcia16/blob/main/saludo1.gif" alt="Welcome Banner" width="50%">
+</div>
 
+# 👋 Hi, I'm Víctor García <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" alt="Wave" width="40" height="40">
 
-<center>
-<img align= "center" src="https://github.com/vicogarcia16/vicogarcia16/blob/main/saludo1.gif" alt="Banner" width="50%" height="auto">
- 
-</center>
+### 🇲🇽 Backend Developer | Python Specialist | Master in ICT
 
-
-# 👋 I'm Víctor García or @vicogarcia16  <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" alt="Banner" width="7%" height="auto">
-
-## About me
-I'm a mexican 🇲🇽 Software Developer and Master ICT :mortar_board::computer:. 
-Currently working as a Backend Developer specializing in Python 🐍.
+> Building robust backend solutions with Python and modern frameworks. Passionate about clean code, automation, and creating tools that solve real problems.
 
 ---
 
-### Quick Stats & Social Badges  
-| ![Followers](https://img.shields.io/github/followers/vicogarcia16?label=Followers&style=flat) | ![GitHub stars](https://img.shields.io/github/stars/vicogarcia16?style=flat&label=Stars) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicgane16/) | [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vicogarcia16) | [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](http://www.vicogarcia.com/cv) |
-|---|---|---|---|---|
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 👁️ [Keep Awake](https://github.com/vicogarcia16/Awake)
+
+**Windows automation tool with modern UI**
+
+Prevents system auto-lock with elegant dark interface and modular architecture.
+
+**Tech:** Python • Tkinter • PyInstaller • Pystray
+
+**Features:**
+
+- 🎨 Catppuccin dark theme
+- ⏱️ Flexible timer (1-480 min)
+- 🎵 Musical sound effects
+- 📦 Modular architecture
+
+</td>
+<td width="50%">
+
+### 🧠 [EndoVic](https://github.com/vicogarcia16/EndoVic)
+
+**AI system for laparoscopic surgery skills**
+
+Real-time objective classification system for surgical training using computer vision and ML.
+
+**Tech:** Python • OpenCV • TensorFlow • Raspberry Pi
+
+**Impact:**
+
+- ⭐ 1 Star • 1 Fork
+- 🏥 Medical AI application
+- 📊 Real-time analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 [Telepesado Bot](https://github.com/vicogarcia16/telepesado-bot)
+
+**AI-powered Telegram bot for movie/series recommendations**
+
+Intelligent bot with natural conversation using LLM and external APIs.
+
+**Tech:** Python • FastAPI • PostgreSQL • OpenRouter • Webhooks
+
+**Highlights:**
+
+- ⭐ 1 Star
+- 🧠 LLM integration (OpenRouter)
+- 🗄️ NeonDB + SQLAlchemy
+- ☁️ Deployed on Render
+
+</td>
+<td width="50%">
+
+### ☁️ [FastAPI MongoDB on Azure](https://github.com/vicogarcia16/fastapi_mongo_demo)
+
+**Production REST API deployed on Azure**
+
+Complete API with MongoDB, JWT auth, and Docker containerization.
+
+**Tech:** Python • FastAPI • MongoDB • Docker • Azure
+
+**Features:**
+
+- ⭐ 1 Star
+- 🐳 Dockerized deployment
+- 🔐 JWT authentication
+- 🌐 [Live on Azure](https://fastapi-mongo-vic-dkbkg8bea9hrhheu.eastus-01.azurewebsites.net/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔧 [Project API](https://github.com/vicogarcia16/project_api)
+
+**FastAPI with Auth, Tasks & Tests**
+
+Complete API with authentication, async operations, and comprehensive testing.
+
+**Tech:** Python • FastAPI • PostgreSQL • JWT • Pytest
+
+**Features:**
+
+- ⭐ 1 Star
+- ✅ Unit & integration tests
+- 🔄 Async operations
+- 🤖 OpenRouter AI integration
+
+</td>
+<td width="50%">
+
+### 📸 [Instagram Clone API](https://github.com/vicogarcia16/instagram-clone-api)
+
+**Instagram backend clone with FastAPI**
+
+Full-featured social media API with posts, likes, and user management.
+
+**Tech:** Python • FastAPI • PostgreSQL • Supabase • Vercel
+
+**Architecture:**
+
+- ⭐ 1 Star
+- 📱 Social media features
+- ☁️ Deployed on Vercel
+- 🗄️ Supabase backend
+
+</td>
+</tr>
+</table>
 
 ---
 
-### *Managed operating systems*  
+## 📊 GitHub Stats
 
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
-|-------------------|-------------|
+<div align="center">
 
----
+<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicogarcia16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-### *Backend and Core*
+<img width="60%" src="https://streak-stats.demolab.com?user=vicogarcia16&theme=tokyonight&hide_border=true"/>
 
-|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)|
-|-------------|-------------|
-|![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)|![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-|![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)|![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)|
-|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)|![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)|
-|![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)|
+</div>
 
 ---
 
-### *Web development*
+## 💻 Tech Stack
 
-|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
-|-------------|-------------|  
-|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)|
-|![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|
+### Backend & APIs
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### *Database management*
+### Data & ML
 
-|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)|
-|-------------------|-------------|
-|![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)|![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)|
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
+### Databases
 
-### *Libraries ML and more*
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-|![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)|![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)|
-|-------------------|-------------|---------------|  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)|![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)|![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)|![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)|
+### Frontend
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### *Other*
+### Tools & Platforms
 
-|![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)|![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)|
-|-------------------|-------------|  
-
----
-
-### *Favorite Code Editor* 
-
-|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
-|-------------------|  
- 
----
-
-### *Learning*
-
-|![Laravel](https://img.shields.io/badge/laravel-123?style=for-the-badge&logo=laravel&logoColor=white&color=gray)|
-|-------------------|
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
-## Blog
-Click on the icon! ⤵️
-|[<img src='https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white' alt='Wordpress'>](http://www.vicogarcia.com)|
-|-------------------|
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicgane16/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](http://www.vicogarcia.com/cv)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](http://www.vicogarcia.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vicogarcia16)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vicogarcia16&color=70a5fd&style=for-the-badge)
+
+</div>
 
 ---
 
-## Github Stats
-| ![vicogarcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicogarcia16&show_icons=true&layout=compact&theme=highcontrast) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicogarcia16&layout=compact&theme=highcontrast) |
-| --- | --- |
+<div align="center">
+  
+### 💡 "First, solve the problem. Then, write the code." – John Johnson
 
-## Contributions Streak
+**Specialized in:** Backend Development • REST APIs • Machine Learning • System Automation
 
-| [![GitHub Streak](https://github-readme-streak-stats-lac-six-17.vercel.app?user=vicogarcia16&theme=python-dark)](https://git.io/streak-stats) |
-| --- |
-
+</div>
