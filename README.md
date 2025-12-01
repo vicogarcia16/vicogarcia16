@@ -138,7 +138,7 @@ Full-featured social media API with posts, likes, and user management.
 
 <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicogarcia16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=vicogarcia16&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-streak-stats-lac-six-17.vercel.app?user=vicogarcia16&theme=tokyonight"/>
 
 </div>
 
