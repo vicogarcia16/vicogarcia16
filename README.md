@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Víctor García <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" alt="Wave" width="40" height="40">
 
-### 🇲🇽 Backend Developer | Python Specialist | Master in ICT
+### 🇲🇽 Backend Developer | Python & FastAPI | Azure & AI Integration
 
-> Building robust backend solutions with Python and modern frameworks. Passionate about clean code, automation, and creating tools that solve real problems.
+> Building robust backend architectures and AI-driven solutions on Azure. Specialized in FastAPI, Intelligent Agents, and Real-time Voice systems. Passionate about clean code, scalability, and solving complex problems with modern tech.
 
 ---
 
