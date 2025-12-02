@@ -16,76 +16,36 @@
 <tr>
 <td width="50%">
 
-### 👁️ [Keep Awake](https://github.com/vicogarcia16/Awake)
-
-**Windows automation tool with modern UI**
-
-Prevents system auto-lock with elegant dark interface and modular architecture.
-
-**Tech:** Python • Tkinter • PyInstaller • Pystray
-
-**Features:**
-
-- 🎨 Catppuccin dark theme
-- ⏱️ Flexible timer (1-480 min)
-- 🎵 Musical sound effects
-- 📦 Modular architecture
-
-</td>
-<td width="50%">
-
-### 🧠 [EndoVic](https://github.com/vicogarcia16/EndoVic)
-
-**AI system for laparoscopic surgery skills**
-
-Real-time objective classification system for surgical training using computer vision and ML.
-
-**Tech:** Python • OpenCV • TensorFlow • Raspberry Pi
-
-**Impact:**
-
-- ⭐ 1 Star • 1 Fork
-- 🏥 Medical AI application
-- 📊 Real-time analysis
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 [Telepesado Bot](https://github.com/vicogarcia16/telepesado-bot)
-
-**AI-powered Telegram bot for movie/series recommendations**
-
-Intelligent bot with natural conversation using LLM and external APIs.
-
-**Tech:** Python • FastAPI • PostgreSQL • OpenRouter • Webhooks
-
-**Highlights:**
-
-- ⭐ 1 Star
-- 🧠 LLM integration (OpenRouter)
-- 🗄️ NeonDB + SQLAlchemy
-- ☁️ Deployed on Render
-
-</td>
-<td width="50%">
-
 ### ☁️ [FastAPI MongoDB on Azure](https://github.com/vicogarcia16/fastapi_mongo_demo)
 
 **Production REST API deployed on Azure**
 
-Complete API with MongoDB, JWT auth, and Docker containerization.
+Cloud-native architecture demonstrating full deployment lifecycle on Azure App Service.
 
 **Tech:** Python • FastAPI • MongoDB • Docker • Azure
 
-**Features:**
+**Key Features:**
+- 🌐 <b>Live Deployment on Azure</b>
+- 🐳 Dockerized Containers
+- 🔐 JWT Authentication & Security
+- 🔄 CI/CD ready structure
 
-- ⭐ 1 Star
-- 🐳 Dockerized deployment
-- 🔐 JWT authentication
-- 🌐 [Live on Azure](https://fastapi-mongo-vic-dkbkg8bea9hrhheu.eastus-01.azurewebsites.net/)
+</td>
+<td width="50%">
+
+### 🤖 [Telepesado Bot](https://github.com/vicogarcia16/telepesado-bot)
+
+**AI Agent for Recommendations (Telegram)**
+
+Conversational AI Agent that interacts with users to provide natural language recommendations.
+
+**Tech:** Python • FastAPI • LLMs (OpenRouter) • PostgreSQL
+
+**Key Features:**
+- 🧠 <b>GenAI / LLM Integration</b>
+- 💬 Natural Language Processing
+- 🗄️ Database Persistence (NeonDB)
+- 🚀 Webhooks & Async Handling
 
 </td>
 </tr>
@@ -93,38 +53,71 @@ Complete API with MongoDB, JWT auth, and Docker containerization.
 <tr>
 <td width="50%">
 
-### 🔧 [Project API](https://github.com/vicogarcia16/project_api)
+### 🧠 [EndoVic](https://github.com/vicogarcia16/EndoVic)
 
-**FastAPI with Auth, Tasks & Tests**
+**Computer Vision for Medical Training**
 
-Complete API with authentication, async operations, and comprehensive testing.
+Real-time machine learning system to classify surgical skills via video analysis.
 
-**Tech:** Python • FastAPI • PostgreSQL • JWT • Pytest
+**Tech:** Python • OpenCV • TensorFlow • Raspberry Pi
 
-**Features:**
-
-- ⭐ 1 Star
-- ✅ Unit & integration tests
-- 🔄 Async operations
-- 🤖 OpenRouter AI integration
+**Impact:**
+- 👁️ <b>Computer Vision & ML</b>
+- 🏥 Applied Medical AI
+- 📊 Real-time Video Processing
+- 🏆 Academic Project
 
 </td>
 <td width="50%">
 
+### 🔧 [Project API](https://github.com/vicogarcia16/project_api)
+
+**Robust Backend with Testing & Tasks**
+
+Advanced API template demonstrating best practices, testing, and async background tasks.
+
+**Tech:** Python • FastAPI • PostgreSQL • Pytest • Celery/Tasks
+
+**Key Features:**
+- ✅ <b>90%+ Test Coverage (Pytest)</b>
+- 🔄 Asynchronous Architecture
+- 🤖 OpenRouter AI Integration
+- 🛡️ Scalable Structure
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 📸 [Instagram Clone API](https://github.com/vicogarcia16/instagram-clone-api)
 
-**Instagram backend clone with FastAPI**
+**Social Media Backend Architecture**
 
-Full-featured social media API with posts, likes, and user management.
+Full-featured REST API replicating core social media functionalities.
 
 **Tech:** Python • FastAPI • PostgreSQL • Supabase • Vercel
 
-**Architecture:**
+**Key Features:**
+- 📱 Complex Data Relationships
+- ☁️ Cloud Database (Supabase)
+- 🚀 Serverless Deployment
 
-- ⭐ 1 Star
-- 📱 Social media features
-- ☁️ Deployed on Vercel
-- 🗄️ Supabase backend
+</td>
+<td width="50%">
+
+### 👁️ [Keep Awake](https://github.com/vicogarcia16/Awake)
+
+**Desktop Automation Utility**
+
+System utility tool preventing auto-lock with a modern modular UI.
+
+**Tech:** Python • Tkinter • System API • Pystray
+
+**Key Features:**
+- 🎨 Modern UI (Catppuccin)
+- 📦 Executable Packaging
+- 💻 Desktop Automation
 
 </td>
 </tr>
@@ -152,12 +145,18 @@ Full-featured social media API with posts, likes, and user management.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Data & ML
+### Cloud & DevOps (Azure Focus)
 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI & GenAI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -165,23 +164,17 @@ Full-featured social media API with posts, likes, and user management.
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-44C4FA?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frontend
+### Frontend & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
 
 ---
 
